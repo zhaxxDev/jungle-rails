@@ -23,18 +23,17 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
- **Admin**
-!["Admin"](screen/main.png)
-  **Apparel**
-!["Apparel"](https://github.com/WanjinYoo/Jungle/blob/master/app/assets/images/Apparel.png)
- **Dashboard**
-!["Dashboard"](https://github.com/WanjinYoo/Jungle/blob/master/app/assets/images/Dashboard.png)
- **Mycart**
-!["Mycart"](https://github.com/WanjinYoo/Jungle/blob/master/app/assets/images/Mycart.png)
- **Products**
-!["Products"](https://github.com/WanjinYoo/Jungle/blob/master/app/assets/images/Products.png)
-**Stripe**
-!["Stripe"](https://github.com/WanjinYoo/Jungle/blob/master/app/assets/images/Stripe.png)
+ **Home Page**
+![](/screenshots/main.png)
+  **Cart Page**
+![](/screenshots/cart.png)
+ **Cart Page if no items added**
+![](/screenshots/emptycart.png)
+ **Category seperation**
+![](/screenshots/filters.png)
+ **Admin page**
+![](/screenshots/admin.png)
+
 
 
 
